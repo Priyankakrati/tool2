@@ -1,0 +1,12 @@
+streamlit
+rdkit
+biopython
+stmol
+py3Dmol
+pandas
+numpy
+ipython_genutils
+matplotlib
+MDAnalysis
+scikit-learn
+freesasa
